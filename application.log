@@ -1,0 +1,5 @@
+2018-06-22 18:13:12,777  INFO [main] BaseTest:29 - ****************************** Starting test cases execution  *****************************************
+2018-06-22 18:13:23,441  INFO [main] BaseTest:56 - entering application URL
+2018-06-22 18:13:23,538  INFO [main] LogInpageTitleTest:18 - ****************************** starting test case *****************************************
+2018-06-22 18:13:23,574  INFO [main] LogInpageTitleTest:24 - *************************end test*******************************
+2018-06-22 18:13:25,776  INFO [main] BaseTest:64 - ****************************** Browser is closed *****************************************
